@@ -1,12 +1,12 @@
-SQL için kapsamlı kaynak
+SQL için kapsamlı kaynak;
 
 Bu kaynak, SQL temellerini bilen ve kendini geliştirmek isteyenler için idealdir. Konu bazlı örnekler ve genel sorular ve cevapları ile farklı seviyelerdeki kullanıcılara hitap eder.
 
-Konu anlatımı yok
+Konu anlatımı yok:
 
 Bu kaynak, SQL'nin temellerini öğretmek için tasarlanmamıştır. Bunun yerine, belirli konulara odaklanan örnekler ve sorular sunar. Bu, SQL'yi daha iyi anlamanıza ve becerilerinizi geliştirmenize yardımcı olabilir.
 
-Geniş kapsamlı
+Geniş kapsamlı:
 
 Bu kaynak, çoğu üniversitenin müfredatında yer alan konulara kadar uzanır. Bu, SQL'de uzmanlaşmak isteyenler için idealdir.
 
